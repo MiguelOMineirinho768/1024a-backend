@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MiguelOMineirinho768/1024a-backend/issues"
   },
-  "homepage": "https://github.com/MiguelOMineirinho768/1024a-backend#readme"
+  "homepage": "https://github.com/MiguelOMineirinho768/1024a-backend#readme",
+  "dependencies": {
+    "2": "^3.0.0",
+    "express": "^5.2.1",
+    "mysql": "^2.18.1"
+  }
 }
